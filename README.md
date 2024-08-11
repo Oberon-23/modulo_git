@@ -1,1 +1,1 @@
-"# game_shop_ebac" 
+Testes iniciais do Git/GitHub pelo curso da Ebac.
