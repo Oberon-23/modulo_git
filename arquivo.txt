@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 "ol  mundo" 
+=======
+"ol  mundo" 
+>>>>>>> b0ab796 (resolvendo conflitos)
