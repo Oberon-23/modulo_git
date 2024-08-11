@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 "ola" 
+=======
+"ola" 
+>>>>>>> b0ab796 (resolvendo conflitos)

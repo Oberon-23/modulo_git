@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 "ol , tudo bem?" 
+=======
+"ol , tudo bem?" 
+>>>>>>> b0ab796 (resolvendo conflitos)
